@@ -7,4 +7,4 @@ Things covered and derived:
 - Z-score Normalisation
 - Binary Cross-Entropy
 - Sigmoid Activation
-- Weight and Bias Gradients
+- Gradients of the Weights and Biases
