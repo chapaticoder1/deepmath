@@ -1,4 +1,4 @@
-# puremath
+# PureMath
 This is a technical report of my path to learning the math behind ML models by building them from scratch with numpy.
 
 ## 1. Logistic regression
