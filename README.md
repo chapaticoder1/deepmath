@@ -1,5 +1,5 @@
 # PureMath
-This is a technical report of my path to learning the math behind ML models by building them from scratch with numpy.
+This is a technical report of my path to learning the math behind ML models by building them from scratch with numpy. Inspired by https://github.com/flackojodie/LogisticRegression-puremath
 
 ## 1. Logistic regression
 Building a simple linear binary classification model for a blob dataset.\
