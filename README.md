@@ -1,12 +1,18 @@
-# PureMath
+# DeepMath
 This is a technical report of my path to learning the math behind ML models by building them from scratch with numpy. Inspired by https://github.com/flackojodie/LogisticRegression-puremath
 
 ## 1. Logistic regression
 Building a simple linear binary classification model for a blob dataset.\
 Things covered and derived:
 - Z-score Normalisation
-- Binary Cross-Entropy
+- Binary Cross-Entropy Loss
 - Sigmoid Activation
 - Gradients of the Weights and Biases
 
-Final BCE loss for a validation dataset of 200 samples: 0.0076
+## 2. Binary Classification with a Dense Neural Network
+Building and testing different neural network architectures, activation functions, and initialisations for a titanic survival dataset.\
+Things covered and derived:
+- ReLU Activation
+- He Initialisation
+- Tanh Activation
+- Xavier Initialisation
